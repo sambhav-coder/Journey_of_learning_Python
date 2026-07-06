@@ -8,4 +8,4 @@ elif(18<=age<60):
 elif(age>=60):
     print("u are senior citizen")
 else:
-    print("invalid age")        
+    print("invalid age")     #   
