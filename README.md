@@ -21,7 +21,7 @@ I am updating this repository consistently. Right now, I have wrapped up everyth
 * [x] Core logic building (Leap year, Max of 3 numbers, Even/Odd checks)
 * [x] Loops and iterations (`Loops.py`, `while_loop.py`, `table.py`)
 * [x] Loop practice problems (`loops_practiceQ.py`)
-* [x] **Data Structures:** Mastering Python Lists (`List.py`),    Strings (`Strings.py`),Tuples('Tuples.py').
+* [x] **Data Structures:** Mastering Python Lists (`List.py`),    Strings (`Strings.py`),Tuples(`Tuples.py`),Sets(`sets.py`) and Dictionary.
 * [ ] Functions & Modular Programming *(Next Up)*
 
 ## 🛠️ Tools I Use
