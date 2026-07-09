@@ -7,3 +7,7 @@
 #Ordered
 #Unchangeble
 #Allows duplicate
+
+#difference between lists and tuples
+# syntax, mutability, speed(tuples are faster),memory(tuples take less memory)
+# error prone(lists are more error prone)
