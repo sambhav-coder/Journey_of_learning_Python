@@ -1,4 +1,5 @@
-temp=int(input("enter temperature:"))
+temp=int(input("enter temperature:")) #multiple if else
+
 if(temp<0):
     print("freezing cold")
 elif(0<=temp<10):
