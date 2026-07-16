@@ -2,7 +2,7 @@
 #while condition:
     #code to execute
 n=10
-i=0
+i=0 
 while(i<=n):
     print(i)
     i+=1
